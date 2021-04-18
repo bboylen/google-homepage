@@ -1,3 +1,1 @@
-GOOGLE HOMEPAGE PROJECT
-
-A clone of Google using HTML/CSS
+A clone of Google's homepage using HTML/CSS
